@@ -18,9 +18,10 @@ menu:
   #categories: /categories
   #archives: /archives
   #tags: /tags
-  GitHub: https:github.com/mickeyouyou
+  GitHub: https:github.com/itpubs
   About: /about
 
+disqus_shortname: light-blog
 
 
 # Static files
